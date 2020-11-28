@@ -19,5 +19,8 @@
   "homepage": "https://github.com/trollhammaren777/test-js#readme",
   "dependencies": {
     "lodash": "^4.17.20"
+  },
+  "devDependencies": {
+    "prettier": "^2.2.1"
   }
 }
