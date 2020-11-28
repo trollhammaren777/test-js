@@ -1,7 +1,7 @@
 {
   "name": "test",
   "version": "1.0.0",
-  "type":"module",
+  "type": "module",
   "description": "Проект на hexlet",
   "main": "index.js",
   "scripts": {
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/trollhammaren777/test-js/issues"
   },
-  "homepage": "https://github.com/trollhammaren777/test-js#readme"
+  "homepage": "https://github.com/trollhammaren777/test-js#readme",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
 }
